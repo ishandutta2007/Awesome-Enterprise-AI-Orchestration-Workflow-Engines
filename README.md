@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-AI-Orchestration-Workflow-Engines?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -90,7 +90,7 @@ The sector demonstrates **moderate market fragmentation with a dual-tiered compe
 
 *High-performance open-source workflow orchestrators, multi-agent frameworks, distributed AI execution runtimes, and cluster schedulers. Sorted in descending order by GitHub stargazers count.*
 
-| Repository & Ecosystem | GitHub Stars | Core Focus Area | Architecture & Primary Capabilities |
+| Repository & Ecosystem | GitHub_Stars | Core Focus Area | Architecture & Primary Capabilities |
 | :--- | :---: | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)**<br>`n8n-io/n8n` | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Visual Workflow Automation & AI Agents | Node-based low-code workflow automation framework with built-in LangChain tools, autonomous agent triggers, and 400+ enterprise connectors. |
 | **[Dify](https://github.com/langgenius/dify)**<br>`langgenius/dify` | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | LLM Application Development & Visual Agents | Production-grade LLMOps platform combining prompt engineering studios, visual multi-agent workflow DAGs, RAG pipelines, and backend APIs. |
